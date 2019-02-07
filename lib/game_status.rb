@@ -46,6 +46,5 @@ def winner(board)
      elsif board[combo[0]] == "O"
         return "O"
      else 
-        nil
     end
   end
